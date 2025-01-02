@@ -1,5 +1,3 @@
-Quantum blockchain network that utilizes qubits and superpositioning through source code, libraries, and an api that provides connection to a quantum computer
-
 The Quantum Portal is a sophisticated platform that combines quantum computing with blockchain technology. The development process involved several key phases:
 
 Core Architecture:
